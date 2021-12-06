@@ -41,7 +41,7 @@ const BLOG = {
     gitalkConfig: {
       repo: 'nob', // The repository of store comments
       owner: 'AjaGao',
-      admin: [AjaGao],
+      admin: 'AjaGao',
       clientID: 'be4d5860758031e2909c',
       clientSecret: '9c2fd0e654d84099f6ce54773594ef321644886f',
       distractionFreeMode: false
